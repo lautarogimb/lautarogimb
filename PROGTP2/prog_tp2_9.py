@@ -1,5 +1,5 @@
 abc = "abcdefghijklmnñopqrstuvwxyz"
-exp = input("Ingrese su nombre")
+exp = input("Ingrese su nombre: ")
 ini = exp[0]
 sex = int(input("Ingrese su sexo 1: Masculino 2: Femenino: "))
 if sex != 1 and sex!= 2:

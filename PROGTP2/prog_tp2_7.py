@@ -2,8 +2,8 @@ print("Ingrese tres números: ")
 num1 = int(input())
 num2 = int(input())
 num3 = int(input())
-mayor = 0
-if num1 > mayor:
+higher = 0
+if num1 > higher:
     mayor = num1
     if num2 > mayor:
         mayor = num2
